@@ -85,13 +85,16 @@ body.scale-cv {
 
 /*========== Generate PDF button ==========*/
 .generate-pdf {
-  display: none;
-  position: absolute;
-  top: 2.2rem;
-  left: 0;
+  /*display: none;*/
+  /*position: absolute;*/
+  /*top: 2.2rem;*/
+  /*left: 0;*/
   font-size: 1.2rem;
   color: var(--text-color);
   cursor: pointer;
+  margin: 0 auto;
+  border: 2px solid #575252;
+  width: 60%;
 }
 
 .generate-pdf:hover {
