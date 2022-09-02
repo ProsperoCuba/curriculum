@@ -101,7 +101,7 @@ skillsButton.addEventListener('click', (e) => {
 })
 
 //Education Awards
-const educationAwardButton = document.getElementById('icpc__award-button')
+/*const educationAwardButton = document.getElementById('icpc__award-button')
 const educationAward = document.getElementById('icpc__award');
 
 educationAwardButton.addEventListener('click', (e) => {
@@ -113,7 +113,7 @@ educationAwardButton.addEventListener('click', (e) => {
         educationAward.classList.remove('show');
         educationAwardButton.innerText = "See More"
     }
-})
+})*/
 
 /*==================== REDUCE THE SIZE AND PRINT ON AN A4 SHEET ====================*/
 function scaleCv() {
